@@ -19,8 +19,8 @@
 
 如果有小钱钱可以打赏一下孩子，感激不尽。
 
-<img src="alipay.jpeg" width="20%" height="20%"></img>
-<img src="weixin.jpeg" width="20%" height="20%"></img>
+<img src="alipay.jpeg" width="30%" height="20%"></img>
+<img src="weixin.jpeg" width="30%" height="20%"></img>
 
 
 #### 自我介绍
