@@ -23,7 +23,7 @@
 <img src="weixin.jpeg" width="30%" height="20%"></img>
 
 
-#### 自我介绍
+#### Self-Introduction
 call me `tiger baby`
 
 Involving technology：
