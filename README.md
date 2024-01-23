@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 #### 自我介绍
-叫我`虎宝`
 
 涉及技术：
 
@@ -13,15 +12,8 @@
 
 - 🔭 目前工作在一家`票务`系统服务提供商
 - 🌱 目前正在内卷开源项目`druid`以及`单元化架构`
-- 💬 `vx`：`hubao-1125`
 
 开源爱好者
-
-如果有小钱钱可以打赏一下孩子，感激不尽。
-
-<img src="alipay.jpeg" width="30%" height="20%"></img>
-<img src="weixin.jpeg" width="30%" height="20%"></img>
-
 
 #### Self-Introduction
 call me `tiger baby`
